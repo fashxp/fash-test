@@ -1,0 +1,14 @@
+{
+  "name": "elements/fash-test",
+  "type": "pimcore-bundle",
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src"
+    }
+  },
+  "extra": {
+  }
+}
